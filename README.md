@@ -1,4 +1,4 @@
-# Workshop2024b
+# Workshop2024a
 Git workshop 2024 Robeco
 Hello World
 
